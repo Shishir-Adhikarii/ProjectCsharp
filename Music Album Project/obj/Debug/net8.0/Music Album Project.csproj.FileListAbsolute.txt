@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\bin\Debug\net8.0\Music Album Project.exe
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\bin\Debug\net8.0\Music Album Project.deps.json
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\bin\Debug\net8.0\Music Album Project.runtimeconfig.json
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\bin\Debug\net8.0\Music Album Project.dll
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\bin\Debug\net8.0\Music Album Project.pdb
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.dll
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\refint\Music Album Project.dll
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.pdb
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\Music Album Project.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Music Album Project\Music Album Project\obj\Debug\net8.0\ref\Music Album Project.dll
